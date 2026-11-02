@@ -83,7 +83,7 @@ See [`docs/EXPORT_GUIDE.md`](docs/EXPORT_GUIDE.md) for the recommended export fi
 
 ## Operating signals
 
-The current engine classifies videos into six evidence-led actions:
+The current engine classifies videos into seven evidence-led actions:
 
 | Signal | Meaning |
 |---|---|

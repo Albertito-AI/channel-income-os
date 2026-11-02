@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "channel-income-os"
+version = "0.1.0"
+description = "API-free, local-first YouTube Studio CSV analysis and creator revenue operations."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  {name = "Albert Tan Sin Hon"}
+]
+license = {text = "PolyForm-Noncommercial-1.0.0 OR Commercial"}
+keywords = ["youtube", "creator-economy", "analytics", "revenue", "csv", "dashboard"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Office/Business :: Financial",
+]
+
+[project.scripts]
+channel-income-os = "channel_income_os.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+channel_income_os = ["sample_data/*.csv"]

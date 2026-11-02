@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use Channel Income OS in research, cite this software."
+title: "Channel Income OS"
+type: software
+authors:
+  - family-names: "Tan"
+    given-names: "Sin Hon, Albert"
+version: 0.1.0
+date-released: 2026-11-02
+url: "https://github.com/Albertito-AI/channel-income-os"
+license: "PolyForm-Noncommercial-1.0.0"

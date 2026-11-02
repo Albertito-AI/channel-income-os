@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Commercial licence or audit
+    url: https://www.alberttansinhon.com/
+    about: Use the website contact route or email the address stated in COMMERCIAL.md.
+  - name: Security report
+    url: https://www.alberttansinhon.com/
+    about: Do not disclose credentials or personal data in a public issue.
