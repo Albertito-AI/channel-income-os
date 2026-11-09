@@ -109,45 +109,21 @@ Channel Income OS is deliberately conservative:
 - it labels target calculations as operating scenarios, not forecasts;
 - it keeps the creator's exports on the creator's computer.
 
-## Commercial model
+## Evaluation and professional use
 
-The source is public so buyers can inspect it before paying.
+Explore the synthetic demonstration and inspect the methods before deciding
+whether Channel Income OS fits your workflow. Noncommercial research, education,
+testing and evaluation are permitted under the
+[PolyForm Noncommercial License 1.0.0](LICENSE).
 
-### Free evaluation
+Commercial use requires a separate written licence. Creator, agency and
+institutional enquiries can be scoped around the channels, users and intended
+workflow. A commissioned review of authorised Studio exports may include a
+reviewed action queue and implementation note, with its scope agreed in advance.
 
-Noncommercial research, education, testing and evaluation are permitted under the [PolyForm Noncommercial License 1.0.0](LICENSE).
-
-### Creator Commercial Licence
-
-**Launch price: US$29 per monetised channel, one-time, for version 0.x.**
-
-This permits one creator or business to use the released version for one revenue-generating channel. Updates, support and later major versions are not included unless stated in the commercial licence certificate.
-
-### Agency Licence
-
-**Launch price: US$249 per year for up to 25 client channels.**
-
-This includes commercial internal use but not resale of the software, source-code redistribution, white-labelling or software-as-a-service deployment.
-
-### Done-for-you channel audit
-
-**Launch price: US$99 per channel**, subject to data quality and scope.
-
-The buyer supplies Studio exports. The service returns the generated report, a reviewed action queue and one written implementation note. It does not include access to the buyer's Google account and does not guarantee financial results.
-
-### White-label and enterprise use
-
-Quoted separately.
-
-For a commercial licence or audit, email **travelingbert@gmail.com** with the subject:
-
-```text
-Channel Income OS Licence
-```
-
-Singapore payments may be arranged by PayNow. International payment arrangements are confirmed on invoice.
-
-See [`COMMERCIAL.md`](COMMERCIAL.md).
+[**Discuss a licence or channel review**](https://www.alberttansinhon.com/#contact)
+with a short, non-confidential description of your intended use. Commercial terms
+are agreed privately. See [licensing scope and boundaries](COMMERCIAL.md).
 
 ## Licence
 
