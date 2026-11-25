@@ -11,5 +11,5 @@
 7. Enable Issues.
 8. Enable Sponsorships after confirming the funding destination.
 9. Optionally enable GitHub Pages from `docs/` for the synthetic demo.
-10. Create a `v0.1.0` release only after the public workflow passes.
+10. To publish a new version, update the version in `pyproject.toml` and the release notes together on `main`. The release workflow tests and builds every matching push, then publishes only on a version change. A manual run verifies by default. Select **Publish** on `main` to retry a version that has not yet been published. Existing releases and their assets are immutable.
 11. Never publish real creator exports, credentials, private reports or payment identifiers.
